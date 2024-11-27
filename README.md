@@ -1,10 +1,10 @@
 7th semester major project by
-avnish anand 
-ashutosh pridarshi
-atul tushar
-biswaprakash
-jayash prem
-sryansh shekhar
+avnish anand 2106104
+ashutosh pridarshi 2106102
+atul tushar 2106103
+biswaprakash patra 2106108 
+jayash prem 2106118
+sryansh shekhar 2106266
 
 # Olympics Data Analysis (1896 - 2016)
 Welcome to the Olympics Data Analysis project! The Olympics Data Analysis Project aims to delve into the rich history of the Olympic Games, this repository contains a comprehensive analysis of the Olympics data spanning from the first modern Olympics in 1896 to the 2016 Games. This project leverages Python to explore and visualize trends, performance, and historical insights from over a century of Olympic history over the time.
